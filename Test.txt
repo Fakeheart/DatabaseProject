@@ -2,4 +2,8 @@ I am WhaleZero.
 Your are shabi.
 I am Maxwell.
 i am bbs
+<<<<<<< HEAD
 i am hzy
+=======
+update
+>>>>>>> e374903e8b440b05e6492320ad6d2813ac3fd145
