@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\css",
+    "\\src\\components",
+    "\\src\\components\\adManageCompe",
+    "\\src\\components\\competition",
+    "\\src\\components\\grade",
+    "\\src\\components\\gradeteacher",
+    "\\src\\plugins",
+    "\\src\\router"
+  ],
+  "SelectedNode": "\\src\\components\\Login.vue",
+  "PreviewInSolutionExplorer": false
+}
