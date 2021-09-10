@@ -1,4 +1,4 @@
-# vue_shop
+# GradeSystem FrontEnd
 
 ## Project setup
 ```
